@@ -7,3 +7,10 @@ Version: 0.01
 
 
 */
+#site-header {
+    position: fixed;
+}
+
+.elementor-85 .elementor-element.elementor-element-3975e96.elementor-view-stacked .elementor-icon {
+    background-color: #cc5d55 !important;
+}
